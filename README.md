@@ -17,6 +17,7 @@
 
  * github or bitbucket(private repo)に進捗共有会の記録を日記みたいな形で残す 
  * これらの文章もgithub等にアップする前提で
+ * 進捗共有にあわせてblogに書くことを推奨する（必須ではない）
 
 ## 決めたいこと
  * 記録は github(public) or bitbucket(private?) にするか
