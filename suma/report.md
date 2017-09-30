@@ -3,7 +3,7 @@
 
 * やったこと（何行でも）：
   * ruse-fuse examplesのひとつであるhello.rsをビルドして動作確認した
-  * "Systems Performance" のファイルシステムの章を読み終わった
+  * "Systems Performance" のファイルシステムの章を読み終わった
 * 学び・失敗したこと：
   * Rustでシングルバイナリのアプリを作ろうとして失敗した http://twitter.com/suma90h/status/913744106911711232
   * 稼働時間2日（平日）のみ、少しはましになったが...
