@@ -3,6 +3,10 @@
 * 進捗ないです
   * 開発環境をUbuntu 16.04 → 17.10 へアップグレード
   * 虐殺器官を鑑賞したりしてインスピレーションを補給していたら平日が過ぎ去った
+* 進捗報告会でわいてきたアイディア・メモなど
+  * VHDL parserでも書いて機能拡張して出力みたいなのやりたい
+  * APFSは  copy on writeとかあって研究対象的に良い https://developer.apple.com/library/content/documentation/FileManagement/Conceptual/APFS_Guide/FAQ/FAQ.html#//apple_ref/doc/uid/TP40016999-CH6-DontLinkElementID_17
+
 
 ## 2017/09/30
 
