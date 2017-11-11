@@ -1,3 +1,9 @@
+## 2017/11/11
+
+* やばい、進捗ない
+  * #wsa研(https://gist.github.com/masayoshi634/265e01de5ba8a575004d5124f41b9c3d ) の発表内容・資料を考えていた
+  * 読んだ(Rustつながり)： [Unixコマンド”yes”についてのちょっとした話 | コンピュータサイエンス | POSTD](http://postd.cc/a-little-story-about-the-yes-unix-command/)
+
 ## 2017/10/28
 
 * 進捗ないです
