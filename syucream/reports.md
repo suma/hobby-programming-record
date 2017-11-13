@@ -1,3 +1,20 @@
+# 活動まとめ 2017/11/11
+
+* やったこと（何行でも）：
+
+  * 少し早く処理する uniq コマンドっぽいものを作った
+
+    * https://github.com/syucream/quniq
+    * http://syucream.hatenablog.jp/entry/2017/11/04/225147
+
+  * 文フリの原稿ラフに仕上げた
+
+    * https://github.com/syucream/bun25
+
+* これからやること（TODO）
+
+  * とりあえず文フリの原稿リファクタリング
+
 # 活動まとめ 2017/10/28
 
 * やったこと（何行でも）：
