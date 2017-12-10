@@ -2,6 +2,18 @@
 
 * やったこと（何行でも）：
 
+  * re:Invent 出張
+  * ちょっとだけ WSA 研のための前調査
+
+* これからやること（TODO）
+
+  * Advent Calendar の準備
+  * WSA 研準備
+
+# 活動まとめ 2017/11/23
+
+* やったこと（何行でも）：
+
   * 文フリの原稿執筆完了&無事に発行
 
     * https://github.com/syucream/bun25
